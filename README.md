@@ -1,4 +1,5 @@
 # setup and source virtual environment:
+git clone https://github.com/rajeshagashe/Film-Locations.git
 virtualenv --python=python3 venv
 source venv/bin/activate
 pip install -r requirements.txt
